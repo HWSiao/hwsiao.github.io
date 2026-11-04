@@ -61,13 +61,13 @@ Skills
   * C++
   * Git
   * Docker
-*  Data Analysis Packages
+* Data Analysis Packages
   * Ansys STK
   * SunPy
   * Astropy
   * PyCAT
   * IDL–solarsoft
-*  Illustration
+* Illustration
   * Adobe Photoshop
   * Adobe Illustrator
   * Clip Studio Paint (CSP)
